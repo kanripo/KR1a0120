@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易稗疏
-#+DATE: 2015-09-23 09:35:23
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 21:58:41.915689
+#+PROPERTY: ID KR1a0120
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 攷異
 <pb:KR1a0120_WYG_005-1a>¶
 欽定四庫全書¶
 　周易稗疏攷異¶
@@ -110,4 +112,3 @@
 　¶
 　¶
 　周易稗疏攷異¶
-
